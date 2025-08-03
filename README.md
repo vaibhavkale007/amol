@@ -1,2 +1,2 @@
 # new repo
-this is my repo with name amol
+this is my repo with name amol and vaibhav
